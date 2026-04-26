@@ -16,11 +16,19 @@ The game keeps track of your wins, losses,ties and includes input validation wit
 
 # Example output
 Choose between Rock, Paper, Scissors: rock
+
 Player: Rock
+
 Computer: Scissors
+
 You win!
+
 -----Results-----
+
 Wins: 1
+
 Losses: 0
+
 Ties: 0
+
 -----New Round-----
