@@ -17,7 +17,7 @@ while True:
             sys.exit()
         print("Please enter a valid choice")
         print(f"{4 - i} attempts remaining! ")
-        player = input("Choose between Rock, Paper, Scissors: ").strip().capitalize()
+        player = input("Choose between Rock, Paper, Scissors: ").strip().lower()
         i += 1
     if player != "q":
         print(f"Player: {player}")
